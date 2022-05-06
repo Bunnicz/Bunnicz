@@ -8,7 +8,7 @@ Marine electrical engineer with master's degree, ex-PhD student in the field of 
 
 Currently working as a PLC programmer in the automotive industry. Felt in love with Python possibilities. Intrested in machine learning and AI.
 - 🌱 I’m currently learning **Doker with Django**
-- ⚡ Fun fact **I've dislocated my shoulder 3 times, more to go...**
+- ⚡ Fun fact **Bboy since 2011**
 
 ## Tools & Languages
 <a href="https://www.python.org/">
@@ -34,4 +34,4 @@ Currently working as a PLC programmer in the automotive industry. Felt in love w
 ## Get in touch with me
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpodgorski367@gmail.com) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-podgorski-plc) 
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCvJ1KZN3c1RlnH7gyGpJZg) 
+<!--[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCvJ1KZN3c1RlnH7gyGpJZg) -->
