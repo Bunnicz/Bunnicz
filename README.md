@@ -7,8 +7,8 @@
 Marine electrical engineer with master's degree, ex-PhD student in the field of Neural Networks. 
 
 Currently working as a PLC programmer in the automotive industry. Felt in love with Python possibilities. Intrested in machine learning and AI.
-- 🌱 I’m currently learning **Doker with Django**
-- ⚡ Fun fact **Bboy since 2011**
+- 🌱 I’m currently learning **Docker containerization**
+- ⚡ Fun fact **Bboy since 2010**
 
 ## Tools & Languages
 <a href="https://www.python.org/">
