@@ -9,7 +9,7 @@ Marine electrical engineer with master's degree, ex-PhD student in the field of 
 Felt in love with Python possibilities and programming in general. Interested in machine learning and AI, but for my current developer journey have chosen developing web applications.
 
 ## Tech stack:
-- **Python**. Frameworks: Django, FastAPI; REST, Celery, JWT
+- **Python**. Frameworks: Django, Flask, FastAPI; REST, Celery, JWT
 - **JavaScript**. Frameworks: VueJS
 - HTML, CSS
 - SQLite, PostgreSQL, Redis
@@ -22,18 +22,19 @@ Felt in love with Python possibilities and programming in general. Interested in
 ## Certificates:
 - PCAP: Programming Essentials in Python - 26.04.2022
 - Google Cloud Skill Badges - 09-10.2022 [Google profile link](https://www.cloudskillsboost.google/public_profiles/2b02bae8-b3b2-4fce-8b27-c7fe3d7ccc51)
+- Free Code Camp: JavaScript Algorithms and Data Structures - 20.02.2023
 
 
 ## Current development path:
 🌱 I’m currently working on: **StockBroker-Django-Vue** [Repo Link](https://github.com/Bunnicz/StockBroker-Django-Vue)
 
-🎓 I’m currently learning: **JavaScript Algorithms and Data Structures** (TypeScript in the future)
+🎓 I’m currently learning: **DRF testing**
 
 📚 I’m currently reading: **Learning DevOps *Second Edition***
 
 ⚡ Fun fact: **Passion to bboying since 2010 and still going**  
 
-Last Update: 03.02.2023
+Last Update: 19.03.2023
 
 ## Tools & Languages
 <a href="https://www.python.org/">
